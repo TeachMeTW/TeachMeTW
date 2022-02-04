@@ -5,7 +5,9 @@
 - 📫 How to reach me **srobinlee@go.pasadena.edu or teachmetheways652@gmail.com**
 
 - ⚡ Fun fact **I wish to go into software and hardware engineering**
-- More information at **TeachMeTW.github.io**
+- 💡 More information at **TeachMeTW.github.io**
+
+<h3 align="center">School Private Repositories don't track hence the lack of contributions</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
