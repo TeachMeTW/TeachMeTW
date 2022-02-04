@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Robin Lee Simpson aka TeachMeTW/h1>
+<h1 align="center">Hello, I'm Robin Lee Simpson aka TeachMeTW</h1>
 
 - 🔭 I’m currently working on more projects such as games, websites, and miscellaneous stuff 
 - 🌱 I’m currently learning **python, java, javascript and other languages**
