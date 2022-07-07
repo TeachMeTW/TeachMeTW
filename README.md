@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on more projects such as games, websites, and miscellaneous stuff 
 - 🌱 I’m currently learning **python, java, javascript and other languages**
-- 📫 How to reach me **srobinlee@go.pasadena.edu or teachmetheways652@gmail.com**
+- 📫 How to reach me **srobinlee.teachmetw@gmail.com**
 
 - ⚡ Fun fact **I wish to go into software and hardware engineering**
 - 💡 More information at **[My Website](https://teachmetw.github.io)**
