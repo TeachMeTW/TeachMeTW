@@ -6,7 +6,11 @@
 - ⚡ Fun fact **I wish to go into software and hardware engineering**
 - 💡 More information at **[My Website](https://teachmetw.github.io)**
 
-<h2 align="center"> ![ezgif-2-752ca9a787 (1)](https://user-images.githubusercontent.com/80879010/200408831-2033ab09-c2a0-49bb-bf87-37cfbc84b6cd.gif) </h2>
+<h2 align="center"> 
+  
+  ![ezgif-2-752ca9a787 (1)](https://user-images.githubusercontent.com/80879010/200408831-2033ab09-c2a0-49bb-bf87-37cfbc84b6cd.gif)
+
+</h2>
 
 
 <a href="https://www.linkedin.com/in/robin-simpson-00620520b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Robin Lee Simpson" height="30" width="40" /></a>
