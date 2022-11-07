@@ -6,10 +6,8 @@
 - ⚡ Fun fact **I wish to go into software and hardware engineering**
 - 💡 More information at **[My Website](https://teachmetw.github.io)**
 
-<h3 align="center">School Private Repositories don't track hence the lack of contributions</h1>
+![download](https://user-images.githubusercontent.com/80879010/200408523-31a9b795-0e65-4e7f-a9ad-94c72f5c6442.gif)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
 <a href="https://www.linkedin.com/in/robin-simpson-00620520b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Robin Lee Simpson" height="30" width="40" /></a>
 </p>
@@ -25,4 +23,5 @@
 [![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/teachmetw)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
   
  </h1>
+
 
