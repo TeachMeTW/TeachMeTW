@@ -16,3 +16,4 @@
 
 <p><img src="https://github-readme-stats-i56e.vercel.app/api?username=teachmetw&show_icons=true" alt="teachmetw" /></p>
 <p><img align="center" src="https://github-readme-stats-i56e.vercel.app/api/top-langs/?username=teachmetw&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" /></p>
+[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/steins-gate-visitor-count)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
