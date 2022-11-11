@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **srobinlee.teachmetw@gmail.com**
 
-- ⚡ Fun fact **I like computers, engineering, and anime (steins;gate)**
+- ⚡ Fun fact **I like computers, engineering, and steins;gate**
 
 
 
