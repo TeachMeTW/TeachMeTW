@@ -9,9 +9,9 @@
 
 <h1 align="center">Hi 👋, I'm Robin Lee Simpson aka TeachMeTW</h1>
 
-- 🔭 I’m currently grinding **leetcode**
+- 🔭 Currently grinding **leetcode**
 
-- 🌱 I’m currently learning **more leetcode**
+- 🌱 Usually reading **books and learning**
 
 - 👨‍💻 All of my projects are available at [teachmetw.github.io](teachmetw.github.io) : currently in the process of revamping.
 
