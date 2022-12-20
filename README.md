@@ -13,7 +13,7 @@
 
 - 🌱 Usually reading **books and learning**
 
-- 👨‍💻 All of my projects are available at [teachmetw.github.io](teachmetw.github.io) : currently in the process of revamping.
+- 👨‍💻 All of my projects are available at [teachmetw.github.io](https://teachmetw.github.io) : currently in the process of revamping.
 
 - 📫 How to reach me **srobinlee.teachmetw@gmail.com**
 
