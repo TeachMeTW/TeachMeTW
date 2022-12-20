@@ -21,9 +21,6 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats-i56e.vercel.app/api?username=teachmetw&show_icons=true" alt="teachmetw" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats-i56e.vercel.app/api/top-langs/?username=teachmetw&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" /></p>
 
 
 <!--START_SECTION:waka-->
