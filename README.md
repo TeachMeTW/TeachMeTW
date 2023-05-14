@@ -1,6 +1,6 @@
 
 <h1 align="center"> 
-  Current attempt at reaching Steins Gate:
+  Current attempt at reaching Steins Gate: </br>
   
   [![](https://counter-remd.onrender.com/teachmetw)](https://github.com/TeachMeTW/steins-gate-visitor-count)
   
