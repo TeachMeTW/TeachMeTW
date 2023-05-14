@@ -1,4 +1,4 @@
-
+<pre>
 <h1 align="center"> 
   Current attempt at reaching Steins Gate: 
   
@@ -10,3 +10,4 @@
   <!--[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/teachmetw?ratio=0.75)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)-->
   
 </h1>
+</pre>
