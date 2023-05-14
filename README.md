@@ -1,6 +1,6 @@
 
 <h1 align="center"> 
-  Currently On WORLDLINE:
+  Current attempt at reaching Steins Gate:
   
   [![](https://counter-remd.onrender.com/teachmetw)](https://github.com/TeachMeTW/steins-gate-visitor-count)
   
