@@ -1,5 +1,5 @@
-<h1 align = "Center">Robin Simpson</h1>
-<p align = "Center"> Aspring Computer Engineer at California Polytechnic State University who likes Astronomy</p>
+
+![Recording 2023-08-18 165647](https://github.com/TeachMeTW/TeachMeTW/assets/80879010/357a12c0-0a56-4020-a9bc-8cb382015196)
 
    <p align="center">
       <a href="https://github.com/TeachMeTW?tab=followers">
