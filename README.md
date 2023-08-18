@@ -1,5 +1,12 @@
-<h1 align="center">I'm Robin</h1>
-<h3 align="center">Computer Engineering student who's interested in everything</h3>
+<h1 align = "Center">Robin Simpson</h1>
+<p align = "Center"> Aspring Computer Engineer at California Polytechnic State University who likes Astronomy</p>
+
+   <p align="center">
+      <a href="https://github.com/TeachMeTW?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TeachMeTW?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/TeachMeTW?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TeachMeTW?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 <h1 align="center"> 
 
