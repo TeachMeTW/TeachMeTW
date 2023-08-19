@@ -1,5 +1,5 @@
 
-![Recording 2023-08-18 165647](https://github.com/TeachMeTW/TeachMeTW/assets/80879010/357a12c0-0a56-4020-a9bc-8cb382015196)
+![Hi everyone,](https://github.com/TeachMeTW/TeachMeTW/assets/80879010/45972bbf-07f2-4e6c-8aab-a3e883aff4ba)
 
    <p align="center">
       <a href="https://github.com/TeachMeTW?tab=followers">
