@@ -39,7 +39,3 @@
     <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
 </p>
 
-
-<h3 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeachMeTW&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="teachmetw" /></h3>
-
-
