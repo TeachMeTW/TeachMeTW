@@ -4,7 +4,7 @@
 
   ![Visitor Count](https://counter-phi-rouge.vercel.app/teachmetw)
 
-  *Current Retry on this World Line*
+  *Each count is another step forward… the path to Steins;Gate is still there. El Psy Congroo*
 
 </div>
 
