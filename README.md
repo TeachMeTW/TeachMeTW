@@ -8,7 +8,6 @@
 
 </div>
 
-Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats
 
