@@ -15,5 +15,11 @@ Welcome to my GitHub profile!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teachmetw&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teachmetw&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/teachmetw/teachmetw/blob/output/snake.svg)
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/teachmetw/teachmetw/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
