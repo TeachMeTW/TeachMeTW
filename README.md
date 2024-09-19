@@ -8,11 +8,17 @@
 
 </div>
 
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teachmetw&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+    <td align="left" valign="middle">
+      <strong>Top languages? More like top <i>language</i> because <s>I can't code in anything else</s> I just love Python so much!</strong>
+    </td>
+  </tr>
+</table>
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teachmetw&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teachmetw&show_icons=true&theme=radical)
 
 
 <div align="center">
