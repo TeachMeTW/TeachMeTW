@@ -4,20 +4,13 @@
 
   ![Visitor Count](https://counter-phi-rouge.vercel.app/teachmetw)
 
-  *Each count is another step forward… the path to Steins;Gate is still there. El Psy Congroo*
+  *Number of times I've tried to achieve Steins;Gate*
 
 </div>
 
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teachmetw&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-    <td align="left" valign="middle">
-      <strong>Top languages? More like top <i>language</i> because <s>I can't code in anything else</s> I just love Python so much!</strong>
-    </td>
-  </tr>
-</table>
+Click the PC!
+
+[![speed](https://github.com/user-attachments/assets/06f52c43-1d67-4623-84f3-cf788a0ea433)](https://robinttw.com)
 
 
 
